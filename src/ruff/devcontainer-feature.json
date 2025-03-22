@@ -1,0 +1,13 @@
+{
+    "id": "ruff",
+    "version": "1.0.0",
+    "name": "ruff",
+    "description": "An extremely fast Python linter, written in Rust. https://astral.sh/ruff",
+    "options": {
+      "version": {
+        "type": "string",
+        "description": "Version to install.",
+        "default": "latest"
+      }
+    }
+  }

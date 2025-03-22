@@ -1,0 +1,13 @@
+{
+    "id": "uv",
+    "version": "1.0.0",
+    "name": "uv",
+    "description": "An extremely fast Python package and project manager, written in Rust. https://astral.sh/uv",
+    "options": {
+        "version": {
+            "default": "latest",
+            "description": "Version to install.",
+            "type": "string"
+        }
+    }
+}
